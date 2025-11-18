@@ -22,6 +22,8 @@ Tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" height="40" alt="Vercel logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" height="40" alt="cloudflare logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" height="40" alt="canva logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/discord/discord-original.svg" height="40" alt="description" />
 <div>
 (to be continued later)
 
