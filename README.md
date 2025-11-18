@@ -12,8 +12,8 @@ If you scroll through, you’ll find:
 
 Take your time, look around, and make yourself at home.
 And seriously, if something catches your attention or you just want to talk, I’m always around.
-
+<i class="devicon-devicon-plain"></i>
 
 Tools 
 
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarcb-orignal.svg" height="40" alt="aarch64 logo" />
