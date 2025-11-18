@@ -15,4 +15,4 @@ And seriously, if something catches your attention or you just want to talk, Iâ€
 
 Tools 
 
-<img src="aarch64-original.svg" height="40" alt="aarch64 logo" />
+<img src="aarch64-original.svg" height="40" alt="Aarch64 Logo" />
