@@ -25,8 +25,8 @@ Tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/devicon/devicon-original.svg" height="40" alt="devicon" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" height="40" alt="description" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ngrok/ngrok-original.svg" height="40" alt="ngrok icon" />
-<div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codepen/codepen-original.svg" height="40" alt="description" />
+<div>
 (to be continued later)
 
 languages:
