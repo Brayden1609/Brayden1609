@@ -15,7 +15,7 @@ And seriously, if something catches your attention or you just want to talk, Iâ€
 <i class="devicon-devicon-plain"></i>
 
 Tools 
-<div align="left>
+<div align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" height="40" alt="aarch64 logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg" height="40" alt="Android Logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/behance/behance-original.svg" height="40" alt="behance logo" />
