@@ -3,6 +3,7 @@ Hey! I’m Brayden — Welcome to my Github
 Here you'll find:
 
 • The tools, languages, and libraries I use — everything that helps me bring ideas to life
+
 • My current projects — the things I’m building, improving, or experimenting with.
 That's all for now.. Goodbye! ✌🏼
 <i class="devicon-devicon-plain"></i>
